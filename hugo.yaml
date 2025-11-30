@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: My Docs
 
 # import hextra as module
 module:
@@ -24,9 +24,9 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
+    # - name: Contact ↗
+    #   url: "https://github.com/imfing"
+    #   weight: 3
     - name: Search
       weight: 4
       params:

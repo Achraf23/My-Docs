@@ -1,0 +1,11 @@
+## Override Env variables defined in the Docker image
+```bash
+docker run --name spip-test -d \
+  -e SPIP_ADMIN_NAME=Admin \
+  -e SPIP_ADMIN_LOGIN=admin \
+  -e SPIP_ADMIN_PASS=adminadmin \
+  ipeos/spip:latest
+
+```
+
+`-e` overrides environment variables defined in the **Dockerfile** of the used image (*ipeos/spip:latest* here)
