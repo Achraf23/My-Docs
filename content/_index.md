@@ -1,9 +1,16 @@
 ---
-title: My Site
+title: My Docs
 toc: false
 ---
 
-This is the landing page.
+<br>
+<br>
+
+Personal documentation available for everyone (including myself). Helps me at work when I need to do a configuration setup I have done in the past. This website allows me to access this from device with a browser. Pretty convenient !
+
+Writing this documentation helps me understand all these different technologies that are essential for administering computers and deploying infrastructures. 
+
+
 
 ## Explore
 
